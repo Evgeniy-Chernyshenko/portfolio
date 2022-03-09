@@ -1,0 +1,26 @@
+.hireMe {
+  background-color: rgb(161, 205, 255);
+  min-height: 100vh;
+}
+
+.hireMeContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 400px;
+}
+
+.form input,
+.form textarea {
+  width: 100%;
+}
+
+.form textarea {
+  resize: none;
+}

@@ -1,0 +1,23 @@
+.greeting {
+  min-height: 100vh;
+  background-color: darksalmon;
+  display: flex;
+  align-items: center;
+}
+
+.greetingContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.textBlock {
+  background-color: white;
+}
+
+.photoBlock {
+  width: 300px;
+  height: 400px;
+  background-color: white;
+}

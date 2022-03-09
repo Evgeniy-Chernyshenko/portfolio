@@ -1,0 +1,10 @@
+.footerLink {
+  display: block;
+}
+
+.footerLink img {
+  display: block;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}

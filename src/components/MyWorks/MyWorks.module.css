@@ -1,0 +1,17 @@
+.myWorks {
+  background-color: rgb(255, 249, 158);
+  min-height: 100vh;
+}
+
+.myWorksContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.myWorksItemsContainer {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+}
