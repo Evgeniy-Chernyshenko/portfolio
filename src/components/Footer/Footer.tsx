@@ -25,7 +25,7 @@ export const Footer = () => {
             link="#"
           />
         </div>
-        <div>
+        <div className={styles.footerText}>
           © 2022 Все, что вы напишете, может быть использовано против вас в суде
         </div>
       </Container>
